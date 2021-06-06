@@ -10,33 +10,48 @@ h1 {
 }
 
 .insights-text {
-
+ color: #9932CC;
 }
 
 .bodycopy {
   font-size: 15px;
+  line-height: 1.6;
+
 }
 
 .outside-container {
   background-color: #090B1A;
   width: 100%;
-  height: 90vh;
+  height: 80vh;
 
 }
 
-.inside-container {
-  position: absolute;
-  top: 20%;
-  left: auto;
-  width: 50%;
-  background-color: #1B1938;
-  align-items: center;
+.row {
   display: flex;
+  width: 55%;
+  margin: auto;
+  background-color: #1B1938;
+  border-radius: 10px;
+
+
+}
+
+.column {
+  flex: 50%;
+  text-align: left;
+
+
+}
+
+.stats {
+
 
 
 }
 
 .image {
 
+max-width:100%;
+border-radius: 0 10px 10px 0;
 
 }
