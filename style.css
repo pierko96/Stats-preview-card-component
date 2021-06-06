@@ -26,8 +26,10 @@ h1 {
 
 .inside-container {
   position: absolute;
-  top: 20%;
-  left: auto;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
   width: 50%;
   background-color: #1B1938;
   align-items: center;
@@ -37,6 +39,6 @@ h1 {
 }
 
 .image {
-
+ width: 50%;
 
 }
