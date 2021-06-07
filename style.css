@@ -13,9 +13,12 @@ h1 {
  color: #9932CC;
 }
 
+
+
 .bodycopy {
   font-size: 15px;
   line-height: 1.6;
+
 
 }
 
@@ -40,7 +43,7 @@ h1 {
 .column {
   flex: 50%;
   text-align: left;
-
+  margin: auto;
 
 }
 
