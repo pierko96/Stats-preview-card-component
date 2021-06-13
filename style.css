@@ -23,6 +23,10 @@ h1 {
 
 }
 
+ul li {
+  display: inline;
+}
+
 .outside-container {
   background-color: #090B1A;
   width: 100%;
