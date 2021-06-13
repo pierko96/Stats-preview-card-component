@@ -49,7 +49,7 @@ h1 {
 .column {
   flex: 50%;
   text-align: left;
-  
+  font-size: 1vw;
 }
 
 .stats {
